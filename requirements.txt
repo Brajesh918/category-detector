@@ -1,0 +1,12 @@
+Flask
+gunicorn
+time
+Jinja2
+matplotlib
+nltk
+numpy
+scipy
+scikit-learn
+pandas
+joblib
+re
